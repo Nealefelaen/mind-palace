@@ -1,0 +1,22 @@
+{
+  "name": "mind-palace",
+  "version": "0.0.1",
+  "description": "A digital Mind Palace application facilitating enhanced memory retention and learning through a spatially-structured, interactive 3D environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mind-palace",
+    "memory",
+    "learning",
+    "spatial-mnemonics",
+    "interactive-learning",
+    "memory-enhancement",
+    "method-of-loci",
+    "knowledge-organisation",
+    "mnemonic-device"
+  ],
+  "author": "Chameleon",
+  "license": "ISC"
+}
